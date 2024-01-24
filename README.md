@@ -1,3 +1,21 @@
+A modified version of the great [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+
+Modifications applied up to now:
+
+Added
+- Option `enable_copy_code_button` to add copy button to Code blocks
+- Option `page_content_width` to set the width of the inner content part of pages
+- Option `sidebar:sticky` to be able to stick the navigator left sidebar to the the top
+- Option `masthead:sticky` to be able to stick the navigator top bar to the the top
+- Option `masthead:hide_navigator` to be able to hide the navigator item of the top bar
+
+At code level, added the possibility to define separate width values to the left sidebar
+
+
+
+
+
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
